@@ -1,2 +1,2 @@
 # Python-openCV-Contornos
-Descragar los scripst, las imagenes y ejecuta.
+Descragar el script *contornos.py*, las imagenes y ejecuta.
