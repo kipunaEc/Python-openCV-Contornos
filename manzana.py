@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("manzana.jpg")
+img = cv2.imread("FigManzana.jpg")
 blur = cv2.blur(img, (6,6))
 #Binarizar la imagen
 imgCanny = cv2.Canny(blur, 10, 150)
